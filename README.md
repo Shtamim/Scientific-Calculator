@@ -9,8 +9,7 @@ This is a web-based scientific calculator built using HTML, CSS, and JavaScript.
 - Advanced functions: square root, exponentiation, trigonometric functions (sine, cosine, tangent,log)etc.
 
 ## Screenshots📱
-
-![Calculator Screenshot](calculator_screenshot.png)
+![IMG_20240324_182614](https://github.com/Shtamim/Scientific-Calculator/assets/134215366/b7dcc83c-923f-4aaa-9173-9bc4ec3261f5)
 
 ## Download ⬇️
 
